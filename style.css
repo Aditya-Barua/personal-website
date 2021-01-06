@@ -1,0 +1,99 @@
+body{
+    font-family: 'Heebo', sans-serif;
+    
+}
+.word{
+    color: rgb(231, 99, 12);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(253, 83, 5),tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-size: 15px;
+
+}
+.half-width{
+    
+        width: 40%;
+        float: left;
+    
+        margin-left: 5% ;
+        padding-left: 3% ;
+}
+.half-width img{
+    width: 400px;
+    padding-left: 5%; 
+    margin-top: 5px;
+    
+}
+.project{
+    margin: auto;
+    padding-top: 30px;
+}
+.top{
+    height:500px;
+    
+}
+.middle{
+    height: 600px;
+  
+}
+.bottom{
+    height: 600px;
+    
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.test{
+    height: 200px;
+    width: 100%;
+    
+    
+    
+}
+.line{
+    width: 30%;
+    float: right;
+    
+}
+.first{
+    text-align: left;
+}
+.second{
+    margin-top: 1%;
+}
+.last{
+    height: 500px;
+}
+.background{
+    background-image: url(images/Group_33094_1.png);
+
+
+}
+.align{
+    text-align: left;
+    margin-left:25% ;
+
+}
+.align2{
+    text-align: right;
+    margin-right: 25%;
+    
+
+}
+.about{
+    text-align: left;
+    color: rgb(81, 81, 230);
+}
+p{
+    text-align: justify;
+}
+.color{
+    color: rgb(5, 5, 97);
+}
+    
+
